@@ -9,7 +9,7 @@ username : <input type="text" name="user"> <br>
 Password : <input type="password" name="pass"> <br>
 <input type='submit' name="submit" value="submit"/>
 </form><br>
-<a href="register.php">Need account?</a>
+<a href="register.php">Need an account?</a>
 </body>
 
 </html>
