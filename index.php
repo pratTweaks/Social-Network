@@ -1,7 +1,7 @@
 
 <html>
 <head>
-<title>fb</title>
+<title>Login</title>
 </head>
 <body>
 <form method="post" action="check.php">
